@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Dec 15 11:10:45 2022
+[*]
+[dumpfile] "C:\Users\vinic\OneDrive\Documentos\Trabalhos_da_Faculdade\Trabalho_de_Sistemas_Digitais\SDtrabalho_00\Conversao_C2_para_Ek_SD--master\tb_conversor.ghw"
+[dumpfile_mtime] "Thu Dec 15 01:04:14 2022"
+[dumpfile_size] 2837
+[savefile] "C:\Users\vinic\OneDrive\Documentos\Trabalhos_da_Faculdade\Trabalho_de_Sistemas_Digitais\SDtrabalho_00\Conversao_C2_para_Ek_SD--master\[SD P03] Vinicius Vieira Viana [O1P1] Guilher Augusto Deitos [O1P2]\tb_conversor.gtkw"
+[timestart] 0
+[size] 1366 715
+[pos] -87 -87
+*-26.040928 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_conversor.
+[sst_width] 197
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 193
+@28
+#{top.tb_conversor.scanal_0[5:0]} top.tb_conversor.scanal_0[5] top.tb_conversor.scanal_0[4] top.tb_conversor.scanal_0[3] top.tb_conversor.scanal_0[2] top.tb_conversor.scanal_0[1] top.tb_conversor.scanal_0[0]
+#{top.tb_conversor.scanal_conv[5:0]} top.tb_conversor.scanal_conv[5] top.tb_conversor.scanal_conv[4] top.tb_conversor.scanal_conv[3] top.tb_conversor.scanal_conv[2] top.tb_conversor.scanal_conv[1] top.tb_conversor.scanal_conv[0]
+#{top.tb_conversor.ssaida_conv[5:0]} top.tb_conversor.ssaida_conv[5] top.tb_conversor.ssaida_conv[4] top.tb_conversor.ssaida_conv[3] top.tb_conversor.ssaida_conv[2] top.tb_conversor.ssaida_conv[1] top.tb_conversor.ssaida_conv[0]
+#{top.tb_conversor.scanal_1[5:0]} top.tb_conversor.scanal_1[5] top.tb_conversor.scanal_1[4] top.tb_conversor.scanal_1[3] top.tb_conversor.scanal_1[2] top.tb_conversor.scanal_1[1] top.tb_conversor.scanal_1[0]
+#{top.tb_conversor.ssaida_mux[5:0]} top.tb_conversor.ssaida_mux[5] top.tb_conversor.ssaida_mux[4] top.tb_conversor.ssaida_mux[3] top.tb_conversor.ssaida_mux[2] top.tb_conversor.ssaida_mux[1] top.tb_conversor.ssaida_mux[0]
+#{top.tb_conversor.sdemux_entrada[5:0]} top.tb_conversor.sdemux_entrada[5] top.tb_conversor.sdemux_entrada[4] top.tb_conversor.sdemux_entrada[3] top.tb_conversor.sdemux_entrada[2] top.tb_conversor.sdemux_entrada[1] top.tb_conversor.sdemux_entrada[0]
+#{top.tb_conversor.sdemux_scanal_0[5:0]} top.tb_conversor.sdemux_scanal_0[5] top.tb_conversor.sdemux_scanal_0[4] top.tb_conversor.sdemux_scanal_0[3] top.tb_conversor.sdemux_scanal_0[2] top.tb_conversor.sdemux_scanal_0[1] top.tb_conversor.sdemux_scanal_0[0]
+#{top.tb_conversor.sdemux_scanal_1[5:0]} top.tb_conversor.sdemux_scanal_1[5] top.tb_conversor.sdemux_scanal_1[4] top.tb_conversor.sdemux_scanal_1[3] top.tb_conversor.sdemux_scanal_1[2] top.tb_conversor.sdemux_scanal_1[1] top.tb_conversor.sdemux_scanal_1[0]
+top.tb_conversor.ssel
+top.tb_conversor.err
+[pattern_trace] 1
+[pattern_trace] 0
